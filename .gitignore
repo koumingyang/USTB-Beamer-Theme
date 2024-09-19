@@ -1,0 +1,11 @@
+slide.pdf
+*.aux
+*.blg
+*.bbl
+*.log
+*.nav
+*.out
+*.snm
+*.gz
+*.toc
+*.vrb
